@@ -1,2 +1,3 @@
 # First-repo
-My first repositary
+My first Git repositary
+Author - Mohd Fazil
